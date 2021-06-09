@@ -5,8 +5,10 @@ export default function Navbar () {
         <div class="topnav" id="myTopnav">
             <a href="#home" class="active">Home</a>
             <a href="#news">News</a>
+            <a href="#search">Search</a>
             <a href="#contact">Contact</a>
-            <a href="#about">About</a>
+
+
         </div>
     )
 }
